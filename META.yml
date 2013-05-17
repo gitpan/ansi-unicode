@@ -28,6 +28,6 @@ resources:
   bugtracker: https://github.com/revmischa/ansi-unicode/issues
   homepage: https://github.com/revmischa/ansi-unicode
   repository: https://github.com/revmischa/ansi-unicode.git
-version: 0.01
+version: 0.02
 x_contributors:
   - 'Mischa S <revmischa@cpan.org>'

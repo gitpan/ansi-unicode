@@ -9,5 +9,8 @@ bin/ansi2unicode.pl
 cpanfile
 dist.ini
 lib/ANSI/Unicode.pm
+sample/ED-CMSG.ICE
+sample/ED-CMSG.ICE.html
+sample/mkhtml.sh
 t/basic.t
 t/release-pod-syntax.t
