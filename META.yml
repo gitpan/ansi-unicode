@@ -23,11 +23,12 @@ no_index:
     - examples
 requires:
   Getopt::Long: 0
+  Moose: 0
   perl: 5.008005
 resources:
   bugtracker: https://github.com/revmischa/ansi-unicode/issues
   homepage: https://github.com/revmischa/ansi-unicode
   repository: https://github.com/revmischa/ansi-unicode.git
-version: 0.02
+version: 0.03
 x_contributors:
   - 'Mischa S <revmischa@cpan.org>'
